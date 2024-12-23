@@ -1,0 +1,11 @@
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\bin\Release\net8.0\LibForPracticeMine.deps.json
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\bin\Release\net8.0\LibForPracticeMine.dll
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\bin\Release\net8.0\LibForPracticeMine.pdb
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.AssemblyInfoInputs.cache
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.AssemblyInfo.cs
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.dll
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\refint\LibForPracticeMine.dll
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\LibForPracticeMine.pdb
+C:\Users\кирилл\Documents\Projects\LibForPracticeMine\obj\Release\net8.0\ref\LibForPracticeMine.dll

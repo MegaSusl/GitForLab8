@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCXNmIk6vuP4aeus0eQqFUvRUMHRnVgNjnrg57lIwxKDTrRyr+5g1T7NcZDCCzIuYOm3BCazAKgDlgVVxtrOAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\кирилл\\Documents\\Projects\\winformsForPractice2\\winformsForPractice2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\кирилл\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\кирилл\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
